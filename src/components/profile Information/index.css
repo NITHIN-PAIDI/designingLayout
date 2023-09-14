@@ -1,0 +1,43 @@
+.profile-information-container {
+  width: 70px;
+  min-height: 100vh;
+  background-color: #e8e8e8;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  width: 29.333999633789062px;
+  height: 50px;
+  top: -510.064697265625px;
+  left: -941.5846557617188px;
+  padding-top: 10px;
+  cursor: pointer;
+}
+.widget-logo {
+  width: 25px;
+  height: 25px;
+  padding: 1.8749996423721313px 2.5px 3.125000476837158px 2.5px;
+  margin: 10px;
+  cursor: pointer;
+}
+.notifications-logo {
+  width: 25px;
+  height: 25px;
+  top: 951px;
+  margin: 10px;
+  left: 22px;
+  cursor: pointer;
+}
+.logos-container {
+  display: flex;
+  flex-direction: column;
+}
+.Profile-logo {
+  width: 50px;
+  height: 50px;
+  padding: 10px;
+  cursor: pointer;
+}

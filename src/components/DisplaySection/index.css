@@ -1,0 +1,130 @@
+.displaySection {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: auto;
+}
+.Functionality-tool-bar {
+  /* border: 1px solid red; */
+  width: 72vw;
+}
+
+.icon-logo {
+  width: 24px;
+  height: 24px;
+  top: 30px;
+  left: 1615px;
+}
+.filter-dropDown {
+  display: flex;
+  justify-content: flex-end;
+  /*border: 1px solid black; */
+  align-items: center;
+}
+.Vector {
+  width: 10px;
+  height: 7.859277725219727px;
+  top: 38.07037353515625px;
+  left: 1644.7786865234375px;
+  color: #888888;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+.functionalIcons {
+  width: 250.74359130859375px;
+  height: 65px;
+  top: 2.0001220703125px;
+  left: 1666px;
+}
+.segement-size {
+  font-size: 25px;
+  border: none;
+}
+.listItem {
+  display: flex;
+  border: none;
+}
+.segement-tittle {
+  font-size: 25px;
+}
+.icon {
+  margin-left: 10px;
+  cursor: pointer;
+}
+.add-table-section {
+  width: 80px;
+  height: 80px;
+  top: 170.41351318359375px;
+  left: 446.6221923828125px;
+  border-radius: 10px;
+  border: 2px solid #888888;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.color-element {
+  top: -229.28802490234375px;
+  left: 2536.61865234375px;
+  font-size: 0px;
+}
+.colorOptions {
+  display: flex;
+  flex-direction: column;
+}
+.color-box {
+  border-radius: 50%;
+}
+.all-the-tables {
+  display: flex;
+  flex-direction: row;
+}
+.icons-container {
+  width: 80px;
+  height: 80px;
+  top: 170.41351318359375px;
+  left: 446.6221923828125px;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.display-segements-sections {
+}
+.all-the-tables {
+}
+.tableDetails {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.tableTittle {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 14px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+.dot {
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  border: none;
+  align-self: flex-end;
+  margin: 10px;
+  margin-top: 10px;
+}
+.icon-size-cover {
+  font-size: 0px;
+  justify-self: center;
+}
